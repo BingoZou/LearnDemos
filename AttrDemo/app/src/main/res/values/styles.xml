@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="attr_1">theme_one</item>
+        <item name="attr_2">theme_two</item>
+        <item name="attr_3">theme_three</item>
+
+        <!--<item name="ZTV_def_style">@style/ZTV_theme_def_style</item>-->
+    </style>
+
+    <style name="ZTV_style">
+        <item name="attr_1">style_one</item>
+        <item name="attr_2">style_two</item>
+    </style>
+
+    <style name="ZTV_theme_def_style">
+        <item name="attr_1">def_style_one</item>
+        <item name="attr_2">def_style_two</item>
+        <item name="attr_3">def_style_three</item>
+    </style>
+
+    <style name="ZTV_default_style">
+        <item name="attr_1">default_style_one</item>
+        <item name="attr_2">default_style_two</item>
+        <item name="attr_3">default_style_three</item>
+        <item name="attr_4">default_style_four</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZTextViewStyle">
+        <attr name="attr_1" format="string" />
+        <attr name="attr_2" format="string" />
+        <attr name="attr_3" format="string" />
+        <attr name="attr_4" format="string" />
+    </declare-styleable>
+
+    <attr name="ZTV_def_style" format="reference"/>
+
+</resources>
